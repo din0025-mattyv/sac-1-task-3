@@ -1,0 +1,11 @@
+C:\Users\matil\Documents\2022\Software development\SofDev SAC task THREE\SofDev SAC task THREE\bin\Debug\SofDev SAC task THREE.exe.config
+C:\Users\matil\Documents\2022\Software development\SofDev SAC task THREE\SofDev SAC task THREE\bin\Debug\SofDev SAC task THREE.exe
+C:\Users\matil\Documents\2022\Software development\SofDev SAC task THREE\SofDev SAC task THREE\bin\Debug\SofDev SAC task THREE.pdb
+C:\Users\matil\Documents\2022\Software development\SofDev SAC task THREE\SofDev SAC task THREE\obj\Debug\SofDev SAC task THREE.csproj.AssemblyReference.cache
+C:\Users\matil\Documents\2022\Software development\SofDev SAC task THREE\SofDev SAC task THREE\obj\Debug\SofDev SAC task THREE.csproj.SuggestedBindingRedirects.cache
+C:\Users\matil\Documents\2022\Software development\SofDev SAC task THREE\SofDev SAC task THREE\obj\Debug\SofDev_SAC_task_THREE.Form1.resources
+C:\Users\matil\Documents\2022\Software development\SofDev SAC task THREE\SofDev SAC task THREE\obj\Debug\SofDev_SAC_task_THREE.Properties.Resources.resources
+C:\Users\matil\Documents\2022\Software development\SofDev SAC task THREE\SofDev SAC task THREE\obj\Debug\SofDev SAC task THREE.csproj.GenerateResource.cache
+C:\Users\matil\Documents\2022\Software development\SofDev SAC task THREE\SofDev SAC task THREE\obj\Debug\SofDev SAC task THREE.csproj.CoreCompileInputs.cache
+C:\Users\matil\Documents\2022\Software development\SofDev SAC task THREE\SofDev SAC task THREE\obj\Debug\SofDev SAC task THREE.exe
+C:\Users\matil\Documents\2022\Software development\SofDev SAC task THREE\SofDev SAC task THREE\obj\Debug\SofDev SAC task THREE.pdb
